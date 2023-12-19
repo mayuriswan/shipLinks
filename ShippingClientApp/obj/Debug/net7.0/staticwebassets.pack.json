@@ -1,0 +1,221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShippingClientApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShippingClientApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\align center.svg",
+      "PackagePath": "staticwebassets\\img\\align center.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\banner.jfif",
+      "PackagePath": "staticwebassets\\img\\banner.jfif"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\buy_a_review_grid_1.svg",
+      "PackagePath": "staticwebassets\\img\\buy_a_review_grid_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\buy_a_review_grid_2.svg",
+      "PackagePath": "staticwebassets\\img\\buy_a_review_grid_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\buy_a_review_grid_3.svg",
+      "PackagePath": "staticwebassets\\img\\buy_a_review_grid_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\coin.svg",
+      "PackagePath": "staticwebassets\\img\\coin.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\credit-card.svg",
+      "PackagePath": "staticwebassets\\img\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\free-account-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\free-account-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\free-account-bg.jfif",
+      "PackagePath": "staticwebassets\\img\\free-account-bg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\img_overlay_section_1.jpg",
+      "PackagePath": "staticwebassets\\img\\img_overlay_section_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\mailboxes_right_img.jpg",
+      "PackagePath": "staticwebassets\\img\\mailboxes_right_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\mailboxes_right_img.png",
+      "PackagePath": "staticwebassets\\img\\mailboxes_right_img.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\pin-distance.svg",
+      "PackagePath": "staticwebassets\\img\\pin-distance.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping-grid-item-icon-1.svg",
+      "PackagePath": "staticwebassets\\img\\shipping-grid-item-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping-grid-item-icon-2.svg",
+      "PackagePath": "staticwebassets\\img\\shipping-grid-item-icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping-grid-item-icon-3.svg",
+      "PackagePath": "staticwebassets\\img\\shipping-grid-item-icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping-grid-item-list-icon.svg",
+      "PackagePath": "staticwebassets\\img\\shipping-grid-item-list-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping_label_img.jpg",
+      "PackagePath": "staticwebassets\\img\\shipping_label_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping_label_img_1.svg",
+      "PackagePath": "staticwebassets\\img\\shipping_label_img_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping_label_img_2.svg",
+      "PackagePath": "staticwebassets\\img\\shipping_label_img_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping_label_img_3.svg",
+      "PackagePath": "staticwebassets\\img\\shipping_label_img_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\shipping_label_img_4.svg",
+      "PackagePath": "staticwebassets\\img\\shipping_label_img_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-1.png",
+      "PackagePath": "staticwebassets\\img\\slide-1.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-2.png",
+      "PackagePath": "staticwebassets\\img\\slide-2.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-3.png",
+      "PackagePath": "staticwebassets\\img\\slide-3.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-4.png",
+      "PackagePath": "staticwebassets\\img\\slide-4.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-5.png",
+      "PackagePath": "staticwebassets\\img\\slide-5.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\slide-6.png",
+      "PackagePath": "staticwebassets\\img\\slide-6.png"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\website.svg",
+      "PackagePath": "staticwebassets\\img\\website.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\img\\weight.svg",
+      "PackagePath": "staticwebassets\\img\\weight.svg"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aelhaoussi\\source\\repos\\ShippingClientApp\\ShippingClientApp\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShippingClientApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShippingClientApp.props",
+      "PackagePath": "build\\ShippingClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShippingClientApp.props",
+      "PackagePath": "buildMultiTargeting\\ShippingClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShippingClientApp.props",
+      "PackagePath": "buildTransitive\\ShippingClientApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

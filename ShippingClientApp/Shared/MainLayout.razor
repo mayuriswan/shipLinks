@@ -1,0 +1,65 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>ShippingClientApp</PageTitle>
+
+    <header id="main_header">
+        <nav class="navbar navbar-expand-xl site_nav py-3 mb-2">
+            <div class="container-lg px-4 flex-wrap">
+                <a class="navbar-brand site_logo" href="#"><span class="h4 mb-0 text-white fw-bold">ShipLink</span></a>
+                <button class="navbar-toggler shadow-none border-0 p-2" type="button" data-bs-toggle="offcanvas"
+                        data-bs-target="#offcanvas">
+                    <i class="fa-solid fa-bars fs-5 text-white"></i>
+                </button>
+                <div class="offcanvas offcanvas-start flex-xl-row flex-column" id="offcanvas">
+                    <div class="d-xl-none d-flex justify-content-end pt-4 px-3">
+                        <button type="button" class="border-0 shadow-none bg-transparent" data-bs-dismiss="offcanvas">
+                            <i class="fa-solid fa-xmark fs-5 text-black"></i>
+                        </button>
+                    </div>
+                    <ul class="nav_ul nav d-flex align-items-center mx-auto">
+                        <li>
+                        <a href="#Mailboxes">Cross-Border Mailbox</a>
+                        </li>
+                        <li>
+                            <a href="#Labels">Shipping Labels</a>
+                        </li>
+                        <li>
+                            <a href="#Partners">Shipping Supplies</a>
+                        </li>
+                        <li>
+                            <a href="#AboutUs">About Us</a>
+                        </li>
+                        <li>
+                            <select name="language" class="nice_select language_select">
+                                <option value="en">EN</option>
+                                <option value="ar">AR</option>
+                            </select>
+                        </li>
+                    </ul>
+                    <div class="nav_btns">
+                        <a href="#">sign up</a>
+                        <a href="#">login</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="site_banner d-flex align-items-xl-end align-items-center py-5 text-center">
+            <div class="container-lg px-4">
+                <div class="mb-5 mt-xl-0 mt-4">
+                    <h1 class="text-white fw-bold mb-4">Cross-Border Ship & Receive is Here</h1>
+                    <a href="#" class="btn_red">Learn More</a>
+                </div>
+                <div class="mb-xl-4">
+                    <h1 class="text-white fw-bold mb-4">Up to 70% off Shipping Labels</h1>
+                    <a href="#" class="btn_red">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <main>
+
+            @Body
+    </main>
